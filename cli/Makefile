@@ -13,3 +13,6 @@ test:
 
 deps:
 	dep ensure
+
+clean:
+	rm cobalt
